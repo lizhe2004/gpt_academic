@@ -1,3 +1,3 @@
-FROM ghcr.io/lizhe2004/chatgpt-on-wechat:master
+FROM ghcr.io/binary-husky/gpt_academic_nolocal:master
 
 CMD ["python3", "-u", "main.py"]
